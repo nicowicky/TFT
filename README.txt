@@ -2,6 +2,7 @@ prompt
 Sanity check del script (end to end)
 Uso Colab A100 GPU optimizar
 escribir los function calss todos en una lista al final para ejecutarse manuealmente uno a uno.
+/content/Dive/My drive/TFT
 todo debe quedar grabado para rehusarse.
 formato sugerido
 # ╔═══════════════════════════════════════════════════════════════════════╗
